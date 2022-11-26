@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Jujutsu Kaisen 0",
+        "length": "1h 52m",
+        "rating": "7.8",
+        "studio": "Mappa",
+        "releaseDate": "2021"
+    },
+    {
+        "name": "Your Name.",
+        "length": "1h 46m",
+        "rating": "8.4",
+        "studio": "CoMix Wave Films",
+        "releaseDate": "2016"
+    },
+    {
+        "name": "The Quintessential Quintuplets",
+        "length": "2h 16m",
+        "rating": "7.8",
+        "studio": "Bibury Animation Studios",
+        "releaseDate": "2022"
+    },
+    {
+        "name": "Violet Evergarden",
+        "length": "2h 20m",
+        "rating": "8.3",
+        "studio": "Kyoto Animation",
+        "releaseDate": "2020"
+    },
+    {
+        "name": "I Want to Eat Your Pancreas",
+        "length": "1h 49m",
+        "rating": "8.0",
+        "studio": "Studio VOLN",
+        "releaseDate": "2018"
+    }
+]
